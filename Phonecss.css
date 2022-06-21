@@ -1,0 +1,24 @@
+/*Navigation*/
+#navbar{
+	flex-direction: column;
+}
+ #navbar ul li{
+ 	font-size: 0.5rem;
+ }
+/*Home*/
+#home{
+	padding: 3px 68px;
+}
+
+/*Services*/
+#services{
+	flex-direction: column;
+}
+
+/*Clients*/
+#clients{
+	overflow: hidden;
+}
+
+/*Contact*/
+
